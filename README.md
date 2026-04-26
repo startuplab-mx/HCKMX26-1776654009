@@ -6,6 +6,20 @@ redes sociales que presentan ofertas delictivas como salidas económicasrápidas
 es solo social; representa una pérdida crítica en el PIB Nacional al destruir el capital humano 
 productivo del país.
 
+Tecnologías y herramientas utilizadas
+
+Para la construcción de este prototipo, los Vantablack Devs hemos integrado un stack de alta eficiencia:
+
+    Lenguajes: Python (Backend/AI)
+
+    IA & Orquestación: Gemini 2.5 Flash y el Agent Development Kit (ADK) de Google.
+
+    Infraestructura: google cloud  nube.
+
+    Gestión de Paquetes: uv para un entorno Python determinista y veloz.
+
+    Entorno de Desarrollo: VS Code con integración de Gemini CLI para Vibe Coding.
+    
 Instrucciones para ejecutar
 
 Para la ejecución del sistema agéntico se usó el Agent Development Kit (ADK) de Google. Se utilizó el lenguaje Python, la API de Gemini 2.5 flash. Se utilizó la herramienta de generación de código Gemini CLI. 
@@ -15,3 +29,11 @@ El cual es únicamente válido para lenguaje Python, otros lenguajes como Java, 
 Se coloca el API Key en la carpeta de .env en donde está indicado como API_EXAMPLE
 Posteriormente para ejecutar el sistema agéntico en el browser se procede a colocar en la terminal de la carpeta raíz del código el comando: adk web
 Esto desplegará en una UI en el navegador predeterminado como Chrome, FireFox, Edge y Safari. 
+
+
+Integrantes  del equipo 
+Vilchis Agustini Brandon
+Orlando Porfirio Jiménez Jiménez
+Mariano Ventura Castro
+Carlos de la Rosa Cuentas-Zavala
+Rodríguez Ramírez Leví Gael
