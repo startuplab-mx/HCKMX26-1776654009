@@ -79,6 +79,15 @@ El Agente de Riesgo Contextual ajusta el nivel de riesgo utilizando factores soc
 Agente 8:
 El Agente de Explicabilidad traduce las decisiones del sistema en explicaciones claras y comprensibles. Resume los factores de riesgo, explica cómo se combinaron las señales y justifica la intervención seleccionada, garantizando transparencia, confianza y uso ético del sistema.
 
+Agente 9 — Telecom Identity Link Agent
+
+El Agente de Vinculación de Identidad Telefónica conecta las señales de riesgo del sistema con interacciones que migran hacia canales asociados a números telefónicos, como mensajería privada. Su objetivo es reducir el anonimato en escenarios de alto riesgo mediante correlaciones seguras y anonimización, sin almacenar información sensible. Este agente permite detectar patrones donde múltiples cuentas convergen en un mismo punto de contacto, fortaleciendo la capacidad preventiva del sistema en etapas críticas del reclutamiento.
+
+
+ Agente 10 — Platform Vulnerability Agent
+
+El Agente de Vulnerabilidad en Plataformas analiza dinámicas de riesgo en entornos digitales como TikTok, Roblox y Minecraft, donde la captación puede ocurrir de forma indirecta. Identifica patrones de exposición a contenido aspiracional de riesgo, normalización de dinero fácil o poder, así como interacciones sociales que pueden escalar hacia manipulación o reclutamiento. Su objetivo es intervenir antes del contacto directo, abordando las raíces culturales y sociales que facilitan la vulnerabilidad.
+
 
 Video DEMO: https://youtube.com/shorts/Q5t2gnSr8po?si=G5tY_lVyxc90F6Au
 
