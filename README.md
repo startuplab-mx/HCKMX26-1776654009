@@ -80,7 +80,7 @@ Agente 8:
 El Agente de Explicabilidad traduce las decisiones del sistema en explicaciones claras y comprensibles. Resume los factores de riesgo, explica cómo se combinaron las señales y justifica la intervención seleccionada, garantizando transparencia, confianza y uso ético del sistema.
 
 
-Video DEMO: https://drive.google.com/drive/folders/1-0M3jXx-P2WpO2pCBmzTucopTYViJLKx
+Video DEMO: https://youtube.com/shorts/Q5t2gnSr8po?si=G5tY_lVyxc90F6Au
 
 Integrantes  del equipo.
 
